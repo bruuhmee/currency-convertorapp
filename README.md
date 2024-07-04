@@ -1,1 +1,2 @@
 # currency-convertorapp
+This project is a Flutter application for converting currency from USD to other currencies (INR, EUR, GBP) using predefined exchange rates. Users can enter an amount in USD, select a target currency from a popup menu, and see the converted result. The interface includes a text field for input, a button to perform the conversion, and another button to reset the input and result.
