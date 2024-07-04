@@ -1,16 +1,1 @@
-# firstprojflu
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a Flutter application for converting currency from USD to other currencies (INR, EUR, GBP) using predefined exchange rates. Users can enter an amount in USD, select a target currency from a popup menu, and see the converted result. The interface includes a text field for input, a button to perform the conversion, and another button to reset the input and result.
